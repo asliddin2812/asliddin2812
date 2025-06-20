@@ -1,7 +1,6 @@
 ## Hi there 👨‍💻 I'm Asliddin Mamatov
 
-<!--
-**asliddin2812/asliddin2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+asliddin2812/asliddin2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mamatovasliddin381@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
