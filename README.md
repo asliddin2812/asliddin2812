@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👨‍💻 I'm Asliddin Mamatov</h1>
 
-<h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team</h3>
+<h3 align="center">I am an enthusiastic junior web developer with a focus on Python backend development. I have recently completed my training in web development and gained hands-on experience through projects and practical exercises. I am eager to apply my skills in Python, FastAPI, Flask, and Django to real-world applications, and I am committed to learning and growing as part of a development team.</h3>
 
 - 🌱 I’m currently learning *Python frameworks*<br>
 - 📞 phone: [+99877-000-01-94](tel:+998770000194)<br>
