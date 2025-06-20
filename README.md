@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team</h3>
 
-- 🌱 I’m currently learning *Python*<br>
+- 🌱 I’m currently learning *Python frameworks*<br>
 - 📞 phone: [+99877-000-01-94](tel:+998770000194)<br>
 - 📫 How to reach me: **mamatovasliddin381@gmail.com**
 
